@@ -1,0 +1,24 @@
+{
+  "name": "rbx-engine.io",
+  "version": "1.0.0",
+  "description": "Engine.IO for Roblox",
+  "main": "src/init.lua",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dog2puppy/rbx-engine.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dog2puppy/rbx-engine.io/issues"
+  },
+  "homepage": "https://github.com/Dog2puppy/rbx-engine.io#readme",
+  "dependencies": {
+    "rbx-types": "^1.0.151"
+  }
+}

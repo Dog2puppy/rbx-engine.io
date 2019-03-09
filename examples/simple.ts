@@ -1,11 +1,4 @@
-## Installation
-
-```npm install rbx-engine.io```
-
-## Example
-
-```ts
-import Engine from 'rbx-engine.io'
+import Engine from './../index'
 const Socket = new Engine<string>() // Connects to localhost
 
 Socket.On('open', () => {
@@ -20,4 +13,3 @@ Socket.On('message', (data) => {
 Socket.On('close', (data) => {
 	print('Disconnected')
 })
-```
