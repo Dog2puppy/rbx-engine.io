@@ -1,6 +1,6 @@
 {
   "name": "rbx-engine.io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Engine.IO for Roblox",
   "main": "src/init.lua",
   "typings": "index.d.ts",
